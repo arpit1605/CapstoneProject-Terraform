@@ -1,2 +1,2 @@
-# CapstoneProject-Terraform
-DevOps CI/CD Pipeline for MERN application using Terraform
+# CapstoneProject - JobsApp
+Setup complete infrastructure for deploying MERN application using Terraform
