@@ -1,2 +1,2 @@
 # CapstoneProject - JobsApp
-Setup complete infrastructure for deploying MERN application using Terraform..
+Setup complete infrastructure for deploying MERN application using Terraform...
