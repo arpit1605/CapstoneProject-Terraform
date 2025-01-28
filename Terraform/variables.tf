@@ -22,7 +22,7 @@ variable "aws_private_subnet_cidr" {
 variable "cluster_name" {
     description = "eks cluster name"
     type = string
-    default = "capstone-eks-cluster"
+    default = "eks-cluster-capstone"
   
 }
 
